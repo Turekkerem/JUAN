@@ -3,6 +3,7 @@
 **JUAN** to minimalistyczny projekt typu Proof of Concept (PoC), który demonstruje, jak w prosty sposób można zaimplementować mechanizm o charakterystyce złośliwego oprogramowania (malware/ransomware-lite). 
 
 Projekt pokazuje, że nie potrzeba skomplikowanych exploitów, aby przejąć kontrolę nad interfejsem użytkownika i wymusić określoną interakcję.
+Niniejsze oprogramowanie należy traktować jako model prototypowy o charakterze dydaktycznym (toy project), służący do bezpiecznej prezentacji mechanizmów blokady systemowej.
 
 ## ⚠️ OSTRZEŻENIE (Disclaimer)
 
